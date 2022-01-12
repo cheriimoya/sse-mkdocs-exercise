@@ -4,4 +4,6 @@ pkgs.mkShell {
   buildInputs = with pkgs; [
     mkdocs
   ];
+
+  shellHook = "exec zsh";
 }

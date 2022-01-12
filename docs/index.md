@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Documentation Example
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This repository contains some example C++ code from the [Simulation Software Engineering](simulation-software-engineering.github.io/homepage/) lecture. It is used in the exercise to generate a documentation website. For more information please check out the [exercise sheet](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/04_documentation/tools_exercise.md).
 
-## Commands
+The code is a slightly modified version of the [code used in the CMake exercise](https://github.com/Simulation-Software-Engineering/cmake-exercise) and thus also similar to the code from the [Spack exercise](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/03_building_and_packaging/spack_exercise.md).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## License
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Please check the `LICENSE` file in this repository.

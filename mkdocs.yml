@@ -1,2 +1,10 @@
-site_name: My Docs
+site_name: SSE Documentation Example
 site_url: https://example.com/
+site_author: cheriimoya
+repo_url: https://github.com/cheriimoya/sse-mkdocs-exercise
+
+nav:
+  - Home: index.md
+  - User Guide:
+    - Installation: compilation-and-installation.md
+    - Getting Started: how-to.md
