@@ -3,6 +3,10 @@ site_url: https://example.com/
 site_author: cheriimoya
 repo_url: https://github.com/cheriimoya/sse-mkdocs-exercise
 
+theme:
+    name: readthedocs
+    locale: en
+
 nav:
   - Home: index.md
   - User Guide:
